@@ -1,7 +1,8 @@
 # DizzyNarwhal928
 ## Hello, my name is William
 I am a student at Leeds Beckett University studying BSC Cyber Security
-My OS of choise is [Linux Mint] (https://linuxmint.com/) with the Cinnamon DE
+
+My OS of choice is [Linux Mint](https://linuxmint.com/) with the Cinnamon DE
 
 I have experience in:
 - Python
